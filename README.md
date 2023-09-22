@@ -2,6 +2,8 @@
 
 **Source code from the video series, Getting Started with PayloadCMS & Vue JS - Free, Open Source, Typescript, Extensible. [See Video Here](https://youtu.be/TDd9EedIrGY)**
 
+<img src='https://github.com/aaronksaunders/remote-fn-nuxt-youtube-app/blob/main/Mobile%20Development%20with%20vue%2C%20Vite%20and%20ionic%20Capacitor%20(15).png' />
+
 In this video series, we will set up PayloadCMS Headless CMS, create a Customers collection, log in as a Customer, create an account as a Customer. Then build a simple vuejs website that can login using the API created by PayloadCMS and finally look at the changes needed to go from website to mobile application with Ionic Framework.
 
 
@@ -18,3 +20,13 @@ An open-source mobile UI toolkit for building modern, high-quality cross-platfor
 Payload is a headless CMS
 
 From PayloadCMS Documentation - A headless CMS is a system that sticks to what it's good at—managing content. It concentrates solely on granting administrators an effective way to author and maintain content, but doesn't control how and where that content is used.
+
+
+### VIDEO
+- https://youtu.be/TDd9EedIrGY
+
+### Links
+- PayloadCMS - https://payloadcms.com/
+- MongoDB Atlas - https://www.mongodb.com/atlas/database
+- MongoDB Compass - https://www.mongodb.com/products/tools/compass
+- Ionic Framework - https://ionicframework.com/
