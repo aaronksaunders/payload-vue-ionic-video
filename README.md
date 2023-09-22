@@ -13,7 +13,7 @@ In this video series, we will set up PayloadCMS Headless CMS, create a Customers
 An open-source mobile UI toolkit for building modern, high-quality cross-platform mobile apps from a single code base in React.Vue.Angular.  @IonicFramework  
 
 **The Series**
-- Part One will take us through to logging in with Customer collection from a vuejs web application
+- [Part One](https://github.com/aaronksaunders/payload-vue-ionic-video/tree/series-part-1) will take us through to logging in with Customer collection from a vuejs web application
 - Part Two - Coming Soon - will handle account creation and checking for existing user session
 - Part Three - Coming Soon - Migrating to mobile app, managing JWT for authenticated access
 
