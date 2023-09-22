@@ -2,7 +2,7 @@
 
 **Source code from the video series, Getting Started with PayloadCMS & Vue JS - Free, Open Source, Typescript, Extensible. [See Video Here](https://youtu.be/TDd9EedIrGY)**
 
-<img src='https://github.com/aaronksaunders/remote-fn-nuxt-youtube-app/blob/main/Mobile%20Development%20with%20vue%2C%20Vite%20and%20ionic%20Capacitor%20(15).png' />
+<img src='https://github.com/aaronksaunders/payload-vue-ionic-video/blob/main/payloadcms-hero-image.png' />
 
 In this video series, we will set up PayloadCMS Headless CMS, create a Customers collection, log in as a Customer, create an account as a Customer. Then build a simple vuejs website that can login using the API created by PayloadCMS and finally look at the changes needed to go from website to mobile application with Ionic Framework.
 
